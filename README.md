@@ -1,3 +1,3 @@
 # Algos
-## For trainig
+## For training
 ### Read only files
