@@ -48,7 +48,7 @@ class Sort {
 
 
 	/*
-	* Merge Sort
+	* Selection Sort
 	*/
 	void sort(int arr[]) 
     { 
