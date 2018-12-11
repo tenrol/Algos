@@ -10,6 +10,7 @@ class Test {
 		map.put('c', 2);
 		System.out.println(map.toString());
 		System.out.println(map.get('c'));
+		System.out.println(map.get('c'));
 	}
 
 }
